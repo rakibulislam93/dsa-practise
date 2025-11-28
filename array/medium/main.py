@@ -8,12 +8,3 @@
 
 # print(mylist)
 
-mydict = {}
-
-mylist = ["rakib", "sajib", "emon", "jamal", "karim"]
-
-for i in range(len(mylist)):
-    mydict[mylist[i]] = mylist[i]
-
-
-print(mydict)
