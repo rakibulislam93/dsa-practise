@@ -1,6 +1,9 @@
 
-print('Hello from main.py')
+mystr = ["rakib", "sajib", "emon", "jamal", "karim"]
+mylist = []
+for name in mystr:
+    if name.startswith("j"):
+        mylist.append(name)
 
-a = 10
-b = 20 
-print('Sum is:', a + b)
+
+print(mylist)
