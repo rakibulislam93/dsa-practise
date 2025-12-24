@@ -13,3 +13,4 @@ for i,val in enumerate(nums):
 
     mp[val]=i
 
+# print("rakibul islam")
